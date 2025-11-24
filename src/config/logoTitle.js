@@ -1,3 +1,3 @@
-const logoTitle="LustyAn!me"
+const logoTitle="LustyFl!x"
 
 export default logoTitle;
