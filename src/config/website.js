@@ -1,3 +1,3 @@
-const website_name = "LustyAnime";
+const website_name = "LustyFlix";
 
 export default website_name;
